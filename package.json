@@ -1,0 +1,23 @@
+{
+  "name": "coktail-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nerrenn/coktail-search.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nerrenn/coktail-search/issues"
+  },
+  "homepage": "https://github.com/nerrenn/coktail-search#readme",
+  "dependencies": {
+    "parcel": "^2.8.3"
+  }
+}
